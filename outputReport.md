@@ -1,27 +1,31 @@
 ## 가수 정보 관리 웹 서버 (node.js와 mySQL을 이용하여)
 
 1. 웹 서버에 접속했을 때
-[image:EEC6D9A4-05D2-4525-BC7B-36FE048DD652-348-00003CEBB6B352ED/스크린샷 2019-12-13 10.31.43.png]
+<img width="470" alt="스크린샷 2019-12-13 10 31 43" src="https://user-images.githubusercontent.com/56791347/70762721-020d9a80-1d95-11ea-8e07-ea9f4d648b3d.png">
+
 
 2. 아티스트를 DB에 추가할 때
-[image:BDC9752D-CE10-45EE-BD18-D07856DFD695-348-00003CF06EA35C69/스크린샷 2019-12-13 10.33.05.png]
+<img width="573" alt="스크린샷 2019-12-13 10 33 05" src="https://user-images.githubusercontent.com/56791347/70762734-15206a80-1d95-11ea-8913-fd96494bfa87.png">
+
 > 추가를 성공했을 때
-[image:3C26E97C-A942-463D-BFFD-9B1E31556ABC-348-00003D08B1A8C245/스크린샷 2019-12-13 10.33.11.png]
-[image:1BC46C01-F939-485C-86BC-33C7A51C3E71-348-00003D132CFEBA85/스크린샷 2019-12-13 10.36.53.png]
+<img width="490" alt="스크린샷 2019-12-13 10 33 11" src="https://user-images.githubusercontent.com/56791347/70762769-34b79300-1d95-11ea-9800-67e523dcf7d3.png">
+
+<img width="345" alt="스크린샷 2019-12-13 10 36 53" src="https://user-images.githubusercontent.com/56791347/70762844-78aa9800-1d95-11ea-969d-aa07cfcab948.png">
 
 > 중복된 아티스트를 추가했을 때
-[image:E0FD2206-D668-48FA-88E9-32223D149EA4-348-00003D2DF1D1895C/스크린샷 2019-12-13 10.35.48.png]
+<img width="558" alt="스크린샷 2019-12-13 10 35 48" src="https://user-images.githubusercontent.com/56791347/70762852-7f390f80-1d95-11ea-884b-f459a25aa7c4.png">
 
-[image:554F0F77-A0C0-4080-BBB1-EEC367601B0C-348-00003D0D3A2580DF/스크린샷 2019-12-13 10.35.52.png]
+<img width="597" alt="스크린샷 2019-12-13 10 35 52" src="https://user-images.githubusercontent.com/56791347/70762855-82cc9680-1d95-11ea-943b-126c92797601.png">
 
 3. 검색
-[image:ED2CA327-B801-4D58-8606-31EA26EC59DD-348-00003D1B374D79F7/스크린샷 2019-12-13 10.33.23.png]
+<img width="469" alt="스크린샷 2019-12-13 10 33 23" src="https://user-images.githubusercontent.com/56791347/70763391-3d10cd80-1d97-11ea-9b87-7f75474480a2.png">
 
 > 검색하고자하는 정보가 있을 때
 
-[image:248ECDF7-23DB-465F-938A-8A3CC7385F41-348-00003D203A9BFA31/스크린샷 2019-12-13 10.33.30.png]
+<img width="638" alt="스크린샷 2019-12-13 10 33 30" src="https://user-images.githubusercontent.com/56791347/70763398-41d58180-1d97-11ea-9e32-5f65ad8a9b6f.png">
 
 > DB에 정보가 없을 때
 
-[image:9D1C5AA8-0EDD-4796-8EA5-4F09FFA20027-348-00003D2667F76588/스크린샷 2019-12-13 10.33.45.png]
-[image:31A65E06-0880-4921-BDF5-C859E7ACA2F4-348-00003D27A972E3B8/스크린샷 2019-12-13 10.33.49.png]
+<img width="584" alt="스크린샷 2019-12-13 10 33 45" src="https://user-images.githubusercontent.com/56791347/70763401-45690880-1d97-11ea-88e4-bc84989c0fcb.png">
+<img width="779" alt="스크린샷 2019-12-13 10 33 49" src="https://user-images.githubusercontent.com/56791347/70763403-4732cc00-1d97-11ea-959f-f99ccf263b50.png">
+
