@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Add Artist</title>
+	</head>
+	<style>
+		#buttonContainer{
+			padding-top: 0.6em;
+			text-align: right;
+		}
+	</style>
+<body>
+	&ensp;<h1>Add Music Artist</h1>
+	<br>
+	<form method="post" action="/process/addartist">
+		<table>
+			<tr>
+				<td><label>Name</label></td>
+				<td><input type="text" name="name" /></td>
+            </tr>
+            <tr>
+                <td><label>Agency</label></td>
+                <td><input type="text" name="group" /></td>
+            </tr>
+			<tr>
+				<td><label>Debut</label></td>
+				<td><input type="text" name="debut" /></td>
+            </tr>
+            <tr>
+				<td><label>Genre</label></td>
+				<td><input type="text" name="genre" /></td>
+			</tr>
+		</table>
+		<td id="buttonContainer" align="right">
+			<input id="submitButton" class="ui primary button" type="submit" value="Save" name=""/>
+		</td>
+	</form>
+</body>
+</html>
