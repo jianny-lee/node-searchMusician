@@ -107,7 +107,7 @@ router.route('/process/firstpage').post(function(req, res) {
                 res.write('&ensp;<div><p>Group : ' + usergroup + '</p></div>');
                 res.write('&ensp;<div><p>Debut Year : ' + userdebut + '</p></div>');
                 res.write('&ensp;<div><p>Genre : ' + usergenre + '</p></div>');
-				res.write("&ensp;<br><br><a href='/public/firstpage.html'>Research to information</a>");
+				res.write("&ensp;<br><br><a href='/public/firstpage.html'>Back to the page of searching information</a>");
 				res.end();
             } else {  // 조회된 레코드가 없는 경우 실패 응답 전송
 				res.writeHead('200', {'Content-Type':'text/html;charset=utf8'});
